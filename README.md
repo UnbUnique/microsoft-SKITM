@@ -4,9 +4,8 @@ A comprehensive collection of practical Python programs, interactive GUI softwar
 
 ---
 
-## 📄 Documentation & Manuals
-- **[Python_Programs_Collection.pdf](Python_Programs_Collection.pdf)**: Complete printable/shareable PDF manual with all source code, execution outputs, assessment scorecard, and visual charts.
-- **[Python_Programs_Collection.docx](Python_Programs_Collection.docx)**: Full editable Microsoft Word manual.
+## 📄 Documentation & Manual
+- **[Python_Programs_Collection.pdf](Python_Programs_Collection.pdf)**: Complete printable and shareable PDF manual containing all source code, execution outputs, assessment scorecard, comparative study, and visual charts.
 
 ---
 
@@ -33,14 +32,6 @@ A comprehensive collection of practical Python programs, interactive GUI softwar
 | 17 | Debugging and Refactoring | `debugging_refactoring.py` | Safe input validation & defensive division |
 | 18 | While Loop Number Generation | `while_loop_number.py` | Generates 1 to 10 using `while` loop |
 | 19 | Loop Comparative Study | `loop_comparative_study.py` | Comparative analysis between `for` loop and `while` loop |
-
----
-
-## 📊 Visual Studies & Assessments
-- **`chart_loc_comparison.png`**: Graphical dual-bar chart showing -69.6% code reduction.
-- **`chart_typing_architecture.png`**: Evaluation chart of Dynamic Typing vs. Static Type Hints.
-- **`assessment_result.png`**: CloudThat Assessment 1 Result (Score: 49.00 / 50.00, 98%).
-- **`terminal_output.png`**: Python 3.14 interactive shell & environment verification.
 
 ---
 
